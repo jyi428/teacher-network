@@ -32,6 +32,6 @@ app.use('/api/profile' , profile);
 app.use('/api/posts' , posts);
 
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 3001;
 
 app.listen(port , () => console.log(`Server running on port: ${port}`));
