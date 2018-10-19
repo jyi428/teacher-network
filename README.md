@@ -2,6 +2,8 @@
 
 - Allows teachers to connect to exchange art supplies 
 - Addresses the budget cut concerns to limit teacher’s personal spending
+- Backend is 100% finished
+- UI pending
 
 ## Technologies used:
 
