@@ -7,7 +7,7 @@
 
 ## Technologies used:
 
-NodeJS, ExpressJS, MongoDB, JWT, authentication
+NodeJS, ExpressJS, MongoDB, Moongoose, JWT, authentication
 
 ## Future Updates:
 
