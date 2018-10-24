@@ -20,5 +20,5 @@ NodeJS, ExpressJS, MongoDB, Moongoose, JWT, authentication
 2. Test using POSTMAN
 3. Sample Username:
 
-   test123@gmail.com 
+   teacher@gmail.com 
    @pplE123
