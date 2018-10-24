@@ -7,7 +7,7 @@
 
 ## Technologies used:
 
-HTML, CSS, Bootstrap, NodeJS, ExpressJS, MongoDB, JWT, authentication
+NodeJS, ExpressJS, MongoDB, JWT, authentication
 
 ## Future Updates:
 
